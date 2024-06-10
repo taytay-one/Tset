@@ -1,4 +1,4 @@
 void main()
 {
-	printf("hello world.yyyyy\n");
+	printf("222hello world.yyyyy\n");
 }
