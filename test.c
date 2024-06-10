@@ -1,4 +1,4 @@
 void main()
 {
-	printf("0very smart hello world.yyyyy\n");
+	printf("2very smart hello world.yyyyy\n");
 }
